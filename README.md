@@ -1,2 +1,2 @@
 # tuning_regresssao
-Técnicas de Tuning para Regressão
+Técnicas de Tuning para Regressão para Análise de Burnout
